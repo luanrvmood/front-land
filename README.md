@@ -5,3 +5,4 @@
 ## Projects
 
 * [REST Countries](rest-countries)
+* [Mixed Grid](mixed-grid)

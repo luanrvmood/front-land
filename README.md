@@ -4,5 +4,5 @@
 
 ## Projects
 
-* [REST Countries](rest-countries)
-* [Mixed Grid](mixed-grid)
+* [REST Countries](rest-countries) [(preview)](https://luanrvmood.github.io/front-land/rest-countries)
+* [Mixed Grid](mixed-grid) [(preview)](https://luanrvmood.github.io/front-land/mixed-grid)
